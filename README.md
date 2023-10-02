@@ -2,4 +2,4 @@
 
 Dataset: Wholesale customers data.csv
 
-This is a project that was implemented as a part of my Machine Learning and Patterns Recognition course in my university. Exploratory data analysis was performed on the Wholesale customers dataset (Wholesale customers data.csv). The two split ratios of training, validation and test: 80-10-10 and 60-20-20 were used for analyzing the dataset. Linear Regression, Support Vector Machine and Random Forest algorithms were used to implement GridSearchCV to find optimal hyperparameters.
+Descriptive and diagnostic approaches of ML were used to describe the variation in the interaction between different types of customers and wholesale distributors. Feature scaling, K-means clustering, PCA and Gradient Boosting were conducted to determine the performance of the metrics. 
